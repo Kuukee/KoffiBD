@@ -1,2 +1,3 @@
 # KoffiBD
-Little port of a nice theme I found on Aliucord
+Port of an Aliucord (BDiscord Mobile) to Desktop BDiscord
+Will continue soon.
